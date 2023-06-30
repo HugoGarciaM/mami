@@ -21,5 +21,11 @@ namespace mam
         {
             MessageBox.Show("Main");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form ir=new Form2();
+            ir.ShowDialog();
+        }
     }
 }

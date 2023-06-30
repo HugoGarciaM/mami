@@ -9,3 +9,15 @@ C:\Users\HUGO GARCIA\Desktop\test\mam\mam\obj\Debug\mam.csproj.GenerateResource.
 C:\Users\HUGO GARCIA\Desktop\test\mam\mam\obj\Debug\mam.csproj.CoreCompileInputs.cache
 C:\Users\HUGO GARCIA\Desktop\test\mam\mam\obj\Debug\mam.exe
 C:\Users\HUGO GARCIA\Desktop\test\mam\mam\obj\Debug\mam.pdb
+D:\EJEMPLO_ANDY\mami\mam\mam\bin\Debug\mam.exe.config
+D:\EJEMPLO_ANDY\mami\mam\mam\bin\Debug\mam.exe
+D:\EJEMPLO_ANDY\mami\mam\mam\bin\Debug\mam.pdb
+D:\EJEMPLO_ANDY\mami\mam\mam\obj\Debug\mam.csproj.AssemblyReference.cache
+D:\EJEMPLO_ANDY\mami\mam\mam\obj\Debug\mam.csproj.SuggestedBindingRedirects.cache
+D:\EJEMPLO_ANDY\mami\mam\mam\obj\Debug\mam.Form1.resources
+D:\EJEMPLO_ANDY\mami\mam\mam\obj\Debug\mam.Properties.Resources.resources
+D:\EJEMPLO_ANDY\mami\mam\mam\obj\Debug\mam.csproj.GenerateResource.cache
+D:\EJEMPLO_ANDY\mami\mam\mam\obj\Debug\mam.csproj.CoreCompileInputs.cache
+D:\EJEMPLO_ANDY\mami\mam\mam\obj\Debug\mam.exe
+D:\EJEMPLO_ANDY\mami\mam\mam\obj\Debug\mam.pdb
+D:\EJEMPLO_ANDY\mami\mam\mam\obj\Debug\mam.Form2.resources
