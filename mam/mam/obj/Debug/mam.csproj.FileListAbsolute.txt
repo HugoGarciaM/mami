@@ -1,0 +1,11 @@
+C:\Users\HUGO GARCIA\Desktop\test\mam\mam\bin\Debug\mam.exe.config
+C:\Users\HUGO GARCIA\Desktop\test\mam\mam\bin\Debug\mam.exe
+C:\Users\HUGO GARCIA\Desktop\test\mam\mam\bin\Debug\mam.pdb
+C:\Users\HUGO GARCIA\Desktop\test\mam\mam\obj\Debug\mam.csproj.AssemblyReference.cache
+C:\Users\HUGO GARCIA\Desktop\test\mam\mam\obj\Debug\mam.csproj.SuggestedBindingRedirects.cache
+C:\Users\HUGO GARCIA\Desktop\test\mam\mam\obj\Debug\mam.Form1.resources
+C:\Users\HUGO GARCIA\Desktop\test\mam\mam\obj\Debug\mam.Properties.Resources.resources
+C:\Users\HUGO GARCIA\Desktop\test\mam\mam\obj\Debug\mam.csproj.GenerateResource.cache
+C:\Users\HUGO GARCIA\Desktop\test\mam\mam\obj\Debug\mam.csproj.CoreCompileInputs.cache
+C:\Users\HUGO GARCIA\Desktop\test\mam\mam\obj\Debug\mam.exe
+C:\Users\HUGO GARCIA\Desktop\test\mam\mam\obj\Debug\mam.pdb
